@@ -1,4 +1,4 @@
-// flash.blade.php
+<!-- // flash.blade.php -->
 
 @if (session('status'))
     <div class="alert alert-success">
